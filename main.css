@@ -1,0 +1,86 @@
+
+/*MOBILE*/
+
+
+
+body, html {
+  text-align: center;
+  font-family: Gotham, Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  color: #ff8641;
+}
+
+section {
+  width: 50%;
+  margin: auto;
+}
+
+h1 {
+  font-size: 2em;
+  color: #7b7d70;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #4eafb8;
+}
+
+
+
+
+
+
+/*TABLET*/
+
+
+
+@media (min-width: 688px) {
+  body, html {
+    color: #7b8f8e;
+  }
+}
+
+@media (min-width: 688px) {
+  h1 {
+    color: #02cbd2; 
+  }
+}
+
+@media (min-width: 688px) {
+  h2 {
+    color: #fcc02a;
+  }
+} 
+
+
+
+
+
+
+/*DESKTOP*/
+
+@media (min-width: 1312px) {
+  body, html {
+    color: #c19e74;
+  }
+}
+
+@media (min-width: 1312px) {
+  h1 {
+    color: #6e4b61;
+  }
+}
+
+@media (min-width: 1312px) {
+  h2 {
+    color: #cabd61;
+  }
+}
+
+
+
+
+
+
+
+
